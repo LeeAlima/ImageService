@@ -1,0 +1,45 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.exe.config
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.exe
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.exe
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.exe.config
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.exe
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.exe
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.exe.config
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.exe
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.exe
+C:\Users\DELL\Desktop\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.pdb
+C:\Users\DELL\Desktop\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.dll
+C:\Users\DELL\Desktop\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll.config
+C:\Users\DELL\Desktop\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll
+C:\Users\DELL\Desktop\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageServiceInfrastructure\bin\Debug\ImageServiceInfrastructure.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\GIT\ImageService\ImageServiceInfrastructure\obj\Debug\ImageServiceInfrastructure.pdb

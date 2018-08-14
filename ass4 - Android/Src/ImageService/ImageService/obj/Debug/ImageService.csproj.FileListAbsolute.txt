@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\bin\Release\ImageService.exe.config
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\bin\Release\ImageService.exe
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\bin\Release\ImageService.pdb
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\DELL\Desktop\GITImageService\ImageService\ImageService\ImageService\obj\Debug\ImageService.pdb

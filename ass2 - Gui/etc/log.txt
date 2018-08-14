@@ -1,0 +1,302 @@
+commit f72a5348f68948ee146393fafd87ddcea82d8916
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Wed May 23 20:30:10 2018 +0300
+
+    FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHgit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -A :) :) :)
+
+commit 0588d26bbf15a1445efeca5fc41a582ca1019762
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Wed May 23 18:48:06 2018 +0300
+
+    Change icon path
+
+commit 53c614a9a7564224963299adaa5f9d2667082dbf
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Wed May 23 12:47:37 2018 +0300
+
+    Fixing bug and adding more comments
+
+commit 6517d5ee3e6419f5e5ffd6e7232443e5140482f0
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Tue May 22 21:00:41 2018 +0300
+
+    Change nothing
+
+commit af03c7199bf6e790f96dff49c4f913f389212c26
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Tue May 22 19:11:09 2018 +0300
+
+    Omer Is the king and fix all
+
+commit 6c98062fb5c58761a8bd086abe1a373272a78614
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue May 22 17:12:51 2018 +0300
+
+    adding mutexes
+
+commit 2ce1b44ad3751cecca67f4f32c12a4922193038f
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Mon May 21 23:33:05 2018 +0300
+
+    continue comments, haven't finished :(
+
+commit d486d4bc79b0056f1ea3e022c3d78299c3b21343
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Mon May 21 22:06:09 2018 +0300
+
+    Half of the comments
+
+commit bea1789dc64a301f44d06301ba81e233fb61c9ea
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Mon May 21 18:06:48 2018 +0300
+
+    Fixing the log list and adding closeCommand
+
+commit 9c819cda1ccf8f7306ff079481ce8be7cdf2fdbf
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Mon May 21 15:51:40 2018 +0300
+
+    Kind of working version
+
+commit c3d90215bd700759af223a268fcc9f40951e2aff
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Mon May 21 02:06:38 2018 +0300
+
+    Few changes in the project, still not working as a service
+
+commit 35172d33d052e06d9b7de3ebe23a536d096c13b6
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Sun May 20 19:38:25 2018 +0300
+
+    Tcp Working need to fix closing and little things
+
+commit 60f5e89696e93f8cbe1683e45ddb53ff24fd93f1
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Wed May 16 22:18:22 2018 +0300
+
+    FIXING THE MVVMgit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -A!  ADDING FUNCTIUNALLITY TO THE MAIN WINDOW
+
+commit 0b7566a108168d1f6e235efa2aafa3ce28791591
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Fri May 11 19:02:57 2018 +0300
+
+    DIKAHONNNNNNNNNN - TARGIL LO KEF
+
+commit e33e5dddad1d10aecd0db131d7b08194bcfde4cd
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Thu May 10 23:56:10 2018 +0300
+
+    Working together on the all projectgit add -Agit add -Agit add -Agit add -A!
+
+commit c415b0d1272e3f005445c2eb3704840be7b5a1fc
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Thu May 10 23:53:07 2018 +0300
+
+    OMI YA MELEHHHHHHHHHHHHH
+
+commit c697746a39d8846a551dd88f4463a7f0f2c8b10e
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Wed May 9 21:06:23 2018 +0300
+
+    Update All
+
+commit f0de92201d33a0842f0398fa932eaac8bb1d8283
+Merge: 8d243b4 342a3d0
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Wed May 9 18:44:38 2018 +0300
+
+    fix bugs in image gui
+
+commit 8d243b4b561447fcf8db24b9273db9acc00782de
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Wed May 9 18:42:00 2018 +0300
+
+    Fix bugs in imageGui
+
+commit 342a3d042e8719bd8303ad91cde361c8b08f89c3
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Tue May 8 23:29:41 2018 +0300
+
+    Change Communication and Inferstructure
+
+commit 64f6eb3ccbec71237cbb129c88b6ba64d865909f
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue May 8 23:23:41 2018 +0300
+
+    almost finish the MVVM sidd
+
+commit c845fde1881a74b07032e909801130c054da7c81
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue May 8 19:29:24 2018 +0300
+
+    continue working on the MVVM
+
+commit 3ee8fafece41b1550d4c4e7f719a5a78e20aa075
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue May 8 19:07:41 2018 +0300
+
+    continue working on the MVVM
+
+commit 2dece8736caa8cea7d22ced1dc82f828c98807a1
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue May 8 16:48:55 2018 +0300
+
+    New version
+
+commit 71568e0cad28d0d701de0903c717dad06bb3fccb
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Sun May 6 23:48:38 2018 +0300
+
+    Working on the MVVM, VMSettings is done! :) left VMLOG and the models!
+
+commit 418e32b9b7ecfaba2edb3a07610b7f912a29bec4
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Sun May 6 20:15:15 2018 +0300
+
+    Fixing building, Binding is working on the settings window
+
+commit e383411495fa28e7332ab6d7ff31ad8e14c580a4
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Sun May 6 12:08:47 2018 +0300
+
+    Update folders
+
+commit 05ee98ad3348606033bec5a8b409000a2af16e29
+Merge: bcd5a6e d6d3a55
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Sun May 6 11:34:09 2018 +0300
+
+    Update Folders
+
+commit bcd5a6e4cacbf2e18acb017078198fa97c2f0ba4
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Sun May 6 11:30:25 2018 +0300
+
+    Update folders
+
+commit d6d3a55bcf3e4f802087c7f91000ed3c2cf550a1
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Sun May 6 00:55:19 2018 +0300
+
+    Adding the models
+
+commit f7d2cdf043dedd30f5c5e3a645556d7d7afdde44
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Fri May 4 14:54:03 2018 +0300
+
+    Start Working on communication layer
+
+commit 50035826234862e7e146e57f3237f5af9934ea04
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Sun Apr 15 16:23:25 2018 +0300
+
+    Last version
+
+commit 4024ce6c3eeb8316754b59fa11b264a2e1b88919
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Sun Apr 15 15:58:35 2018 +0300
+
+    updating
+
+commit 553edfc1a9c33875038dc01cf7e298b49cc1235e
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Sat Apr 14 22:20:44 2018 +0300
+
+    Fixing bugs, adding more comments and ready for submission
+
+commit 4e533faa10ff243f41afdf5b37d1b1230dd6f59c
+Merge: 500393e 7bb9829
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Sat Apr 14 21:09:46 2018 +0300
+
+    Add comments
+
+commit 500393ef732471d9ef50f5d8617b4cb6693fd97f
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Sat Apr 14 21:06:05 2018 +0300
+
+    Add comments
+
+commit 7bb9829cf2587d63b119efd926a93a1d4120277f
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue Apr 10 22:10:03 2018 +0300
+
+    Fixing bugs
+
+commit cec370c2ddbd4e0f26bee08f3ce14d42e6aa51dc
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue Apr 10 16:51:51 2018 +0300
+
+    split to directories
+
+commit c4b01b5974846459853e5ca708276c3d6a51554e
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue Apr 10 00:22:57 2018 +0300
+
+    Met ha'holam metgit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -Agit add -A!
+
+commit 7b4a8a66579111187aec836f309272319af8124b
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Mon Apr 9 22:28:35 2018 +0300
+
+    Handling images with the same name
+
+commit d5e8abf827855c5eccd41d41203b4968774087ff
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Sun Apr 1 00:12:14 2018 +0300
+
+    finished, coding style and comments are needed
+
+commit c0c26e84b20f47bb15029d8dd5bfc1c3864b09d0
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Fri Mar 30 15:11:31 2018 +0300
+
+    make outdir hidden
+
+commit 9ae700ca6d7c66853999449d58514b1bc2ba66eb
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Fri Mar 30 13:37:02 2018 +0300
+
+     fixing the bug in the removing the photo while the service is running
+
+commit 072a3a94868245d430e2c14c6e8ff6c5f23ca064
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Fri Mar 30 02:01:51 2018 +0300
+
+    fixing the bug in the thumbnail
+
+commit 662d3b0f8496b2e02762903533606249b616a9a6
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Fri Mar 30 01:37:12 2018 +0300
+
+    Removing photos is available, bug in the thumbnail directory, closing handlers is required and handling the app.config
+
+commit e1851113978fc56e5b47656996b32c88b31426b4
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Thu Mar 29 21:03:10 2018 +0300
+
+    working on the sever, before checking and with no closing dir handling
+
+commit 9dca33dfcb1d62ec0248b7dcb19d89163b4f7b1c
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue Mar 27 23:38:38 2018 +0300
+
+    continue working on the handler and the controller
+
+commit abd766b2156656b30df754ee11effde4b8b74663
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Tue Mar 27 19:53:31 2018 +0300
+
+    creating the controller (mission 5)
+
+commit b2557b817842a873c6d0659dc51ead5e294f2e0f
+Author: LeeAlima <leealima28@gmail.com>
+Date:   Mon Mar 26 23:18:33 2018 +0300
+
+    mission 1 2 3 and half of 6
+
+commit ee7377c345bf27296d9d743256b08469d17f44c0
+Author: OmerLee <darhavakook@gmail.com>
+Date:   Sat Mar 24 20:57:18 2018 +0300
+
+    New project created

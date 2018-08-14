@@ -1,0 +1,83 @@
+﻿@model ImageServerWeb.Models.HomePageModel
+@{
+	ViewBag.Title = "Index";
+}
+
+<link href="~/Content/bootstrap-journal.css" rel="stylesheet" type="text/css" />
+
+<br />
+<br />
+<div class="jumbotron">
+    <h1 class="display-3">Welcome to ImageWeb !</h1>
+    <br/>
+    <br/>
+    <div class="row">
+        <div class="card border-secondary mb-3" style="max-width: 20rem; margin-left: 45px; margin-top: auto; float: left">
+            <div class="card-header" align="center"><h2>Etc:</h2></div>
+            <div class="card-body">
+                <table class="table table-hover">
+                    <tbody id="myTable">
+                    @if (Model.Students.Count != 0)
+                    {
+                        for (int i = 0; i < Model.Students.Count; i++)
+                        {
+                                <tr class="table-active">
+                                    <td>@Model.Students[i][0]</td>
+                                    <td>@Model.Students[i][1]</td>
+                                    <td>@Model.Students[i][2]</td>
+
+                                </tr>
+                        }
+                    }
+                    </tbody>
+
+                </table>
+            </div>
+        </div>
+        <br/>
+        <br/>
+        <div class="card border-secondary mb-3" style="max-width: 20rem; margin-left: 45px;">
+            <div class="card-header" align="center"><h3>Number Of Photos:</h3></div>
+            <div class="card-body" align="center">
+                
+                @{
+                    if (Model.NumOfImages == 0)
+                    {
+                        <p class="text-danger" style="font-size:120%;">
+                            There is no Photos in Output directory.
+                        </p>
+                    }
+                    else
+                    {
+                        <p class="text-success" style="font-size:120%;">
+                            Number of photos in Output directory is
+                            @(Model.NumOfImages/2) .
+                        </p>
+                    }
+                }
+                
+            </div>
+        </div>
+
+        <div class="card border-secondary mb-3" style="max-width: 20rem; margin-left: 45px;">
+            <div class="card-header" align="center"><h3>Image Service Status:</h3></div>
+            <div class="card-body" align="center">
+                @{
+                    if (Model.Status == "Active")
+                    {
+                        <p class="text-success" style="font-size:120%;">
+                            Image Service is @Model.Status now.
+                        </p>
+                    }
+                    else
+                    {
+                        <p class="text-danger" style="font-size:120%;">
+                            Image Service is @Model.Status now.
+                        </p>
+                    }
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
